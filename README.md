@@ -1,2 +1,2 @@
-# pROJECT-50
-Website about Orginamis
+# C-52
+Capstone Website
